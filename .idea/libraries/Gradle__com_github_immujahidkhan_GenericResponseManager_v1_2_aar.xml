@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.immujahidkhan:GenericResponseManager:v1.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0a9ba989f00c039ace70190f732f191b/jetified-GenericResponseManager-v1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0dec764cf2f51d5e5d41571694b65795/jetified-GenericResponseManager-v1.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0dec764cf2f51d5e5d41571694b65795/jetified-GenericResponseManager-v1.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0dec764cf2f51d5e5d41571694b65795/jetified-GenericResponseManager-v1.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.immujahidkhan/GenericResponseManager/v1.2/d88c2f3727c2cbb78d7fff3a16fc3e71e9249814/GenericResponseManager-v1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
