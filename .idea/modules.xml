@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AdmobAdsChanger.iml" filepath="$PROJECT_DIR$/.idea/modules/AdmobAdsChanger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AdsChnager/AdmobAdsChanger.AdsChanger.iml" filepath="$PROJECT_DIR$/.idea/modules/AdsChnager/AdmobAdsChanger.AdsChanger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AdmobAdsChanger.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AdmobAdsChanger.app.iml" />
+    </modules>
+  </component>
+</project>

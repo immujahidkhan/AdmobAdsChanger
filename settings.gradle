@@ -1,0 +1,1 @@
+include ':AdsChanger'include ':app'rootProject.name = "AdmobAdsChanger"
