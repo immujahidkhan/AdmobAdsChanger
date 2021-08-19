@@ -1,0 +1,22 @@
+{
+  "ad_serving_limited": true,
+  "list": [
+    {
+      "package": "com.test",
+      "data": [
+        {
+          "type": "Facebook",
+          "app_id": "ca-app-pub-3940256099942544~3347511713",
+          "banner_id": "ca-app-pub-3940256099942544/6300978111",
+          "interstitial_id": "ca-app-pub-3940256099942544/1033173712"
+        },
+        {
+          "type": "Google",
+          "app_id": "don't need",
+          "banner_id": "838295083293709_842133512909866",
+          "interstitial_id": "838295083293709_842135142909703"
+        }
+      ]
+    }
+  ]
+}
