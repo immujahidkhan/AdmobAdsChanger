@@ -1,4 +1,4 @@
-package com.justclack.flowerwallpapers.utils
+package com.justclack.adschnager
 
 import timber.log.Timber
 

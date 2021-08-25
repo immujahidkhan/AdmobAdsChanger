@@ -1,7 +1,5 @@
 package com.justclack.adschnager
 
-import com.justclack.flowerwallpapers.utils.TimberLog
-
 class FakeCrashLibrary private constructor() {
     companion object {
         private const val TAG = "FakeCrashLibrary"

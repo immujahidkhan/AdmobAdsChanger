@@ -1,4 +1,4 @@
-package com.justclack.flowerwallpapers.utils
+package com.justclack.adschnager
 
 import android.content.Context
 import com.sdsmdg.tastytoast.TastyToast
