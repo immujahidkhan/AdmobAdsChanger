@@ -90,6 +90,7 @@ class GetMyAdmobAds {
 
         private const val TAG = "GetMyAdmobAds"
         fun loadBannerAds(adsPoJo: RealAdItem, context: Context, adContainer: LinearLayout) {
+            adContainer.removeAllViews()
             val adView = AdView(context)
             adView.adSize = AdSize.BANNER
             adView.adUnitId = adsPoJo.bannerId
